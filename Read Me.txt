@@ -1,0 +1,9 @@
+@author:	Linh Vu
+@date:		12/25/19
+@description: Huong dan cai dat plugins cho Kicad 5.1
+
+Install vao 3 duong dan
+%% C:\Program Files\Kicad\bin\plugins
+%% C:\Program Files\Kicad\bin\scripting\plugins
+C:\Program Files\Kicad\share\kicad\scripting\plugins
+Hoat dong tot tren phien ban Kicad 5.1
